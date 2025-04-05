@@ -1,105 +1,67 @@
-# CS22101 Data Structure and Algorithms  
-**Credits:** 5 (3-0-4)
+# CS22102 Programming Tools and Techniques  
+**Credits:** 4 (2-0-4)
 
 ---
 
 ## Unit I  
-**Introduction to Data Structures**  
-- Various ways of representation of array elements:  
-  - Row Major and Column Major order  
-  - Handling multi-dimensional arrays and their representation  
+**Tools and Software Basics**  
+- Vim  
+- Emacs  
+- HTML  
+- Report and presentation software: LaTeX  
+- Drawing software: Inkscape, xfig  
+- Office suite: OpenOffice / LibreOffice  
+
+📚 **4 lectures**
+
+---
+
+## Unit II  
+**Unix (Linux) Basics**  
+- Shell and File System  
+- Permissions  
+- Common Unix (Linux) commands  
+- Bash Shell Scripting  
+
+📚 **8 lectures**
+
+---
+
+## Unit III  
+**Unix Tools and Scripting**  
+- Tools: `awk`, `sed`, `grep`, `find`, `tar`, `sort`, `ls`, `diff`, etc.  
+- I/O Redirection and Pipes  
+- AWK Scripting  
 
 📚 **6 lectures**
 
 ---
 
-## Unit II  
-**Arrays**  
-- Dynamic memory allocation  
-- One-dimensional and multi-dimensional arrays  
-- Operations on arrays  
-- Storage: Row major order, Column major order  
-
-**Linked Lists**  
-- Types:  
-  - Singly  
-  - Doubly  
-  - Circularly linked lists  
-- Operations on linked lists  
-
-📚 **9 lectures**
-
----
-
-## Unit III  
-**Stacks**  
-- Implementation using array and linked list  
-- Operations on stacks  
-- Applications of stacks  
-- Notations: infix, prefix, and postfix  
-- Conversion and evaluation of arithmetic expressions using stacks  
-
-**Queues**  
-- Implementation using array and linked list  
-- Operations on queues  
-- Types of queues:  
-  - Queue  
-  - Double-ended queue  
-  - Priority queue  
-
-📚 **9 lectures**
-
----
-
 ## Unit IV  
-**Trees**  
-- Binary tree  
-- Binary search tree  
-- Threaded binary tree  
-- Height balanced trees  
-- Tries  
-- Heaps  
-- Hash tables  
+**Python Programming Basics**  
+- Basic Data Types:  
+  - Numbers (floating point, complex, long integers)  
+  - Strings (ASCII and Unicode)  
+  - Lists  
+  - Dictionaries  
 
-**Graph Traversals**  
-- Breadth First Search (BFS)  
-- Depth First Search (DFS)  
-- Shortest path: DFS in directed and undirected graphs  
-- Union-find data structure and applications  
-- Directed acyclic graphs (DAG); topological sort  
-
-📚 **9 lectures**
+📚 **6 lectures**
 
 ---
 
 ## Unit V  
-**Searching**  
-- Linear search  
-- Binary search  
-- Hashing  
+**Advanced Python and Visualization Tools**  
+- Matrix operations  
+- `matplotlib`  
+- Graph plotting software: gnuplot  
 
-**Sorting Algorithms**  
-- Insertion Sort  
-- Bubble Sort  
-- Selection Sort  
-- Merge Sort  
-- Quick Sort  
-- Heap Sort  
-- Radix Sort  
-- Bucket Sort  
-- Shell Sort  
-
-**Algorithm Design Techniques**  
-- Divide and Conquer  
-- Greedy Approach  
-- Dynamic Programming  
-
-📚 **9 lectures**
+📚 **4 lectures**
 
 ---
 
 ## Books  
-1. *Fundamentals of Data Structures*, E. Horowitz, Sartaj Sahani, 2nd Edition, Galgotia Publication, 2008.  
-2. *Algorithms, Data Structures, and Problem Solving with C++*, Mark Allen Weiss, Addison-Wesley Publishing Company, 1995.  
-3. *Data Structures using C and C++*, Y. Langsam, M.J. Augenstein, A.M. Tanenbaum, 2nd Edition, PHI, 2007.  
-4. *Data Structure and Program Design in C*, R.L. Kruse, B.P. Leary, C.L. Tondo, 5th Edition, PHI, 2009.  
+1. *Beginning Linux Programming*, Neil Matthew and Richard Stones, 4th Edition, Wiley Publication, 2007.  
+2. *LaTeX - A Document Preparation System*, Leslie Lamport, 2nd Edition, Addison-Wesley, 1994.  
+3. *Learn Python 3 the Hard Way*, Zed A. Shaw, Pearson, 2018.  
+4. *Python for Data Analytics*, Wes McKinney, O’Reilly, 2015.  
+5. *The Python Tutorial Online Book* — [https://docs.python.org/3/tutorial/index.html](https://docs.python.org/3/tutorial/index.html)  
