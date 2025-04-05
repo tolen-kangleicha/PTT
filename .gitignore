@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+pip-selfcheck.json
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.pdfsync
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Output / Reports
+*.pdf
+*.dvi
+*.ps
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Shell history or cache (if any used)
+.bash_history
+bash_history.txt
+.history
+.cache/
