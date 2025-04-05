@@ -1,21 +1,33 @@
-## 📚 Syllabus  
-See the full [syllabus here](./syllabus.md).
+# 📘 CS22102 – Programming Tools and Techniques (PTT)
+
+This repository contains materials for **CS22102 - Programming Tools and Techniques**.  
+It includes notes, scripts, and examples related to:
+
+- Linux and shell scripting  
+- Command-line tools like `awk`, `sed`, `grep`  
+- Python programming  
+- Document tools like LaTeX and LibreOffice  
+- Plotting and drawing tools
+
+---
+
+## 📁 Contents
+
+- Notes and references  
+- Bash scripts and command examples  
+- Python programs  
+- LaTeX documents and templates  
+- Syllabus and license information  
+
+---
+
+## 📄 License
+
+Under the MIT License – free to use, modify, and distribute with attribution.
 
 
-This repository contains my course materials for CS22101 - Data Structures and Algorithms. It includes lecture-wise notes, code implementations (in C++/Python), problem-solving practice, and visual references for important concepts like:
+---
 
-    Arrays, Linked Lists
+## 🔗 Syllabus
 
-    Stacks and Queues
-
-    Trees and Graphs
-
-    Sorting and Searching Algorithms
-
-    Recursion, Divide & Conquer
-
-    Greedy, Dynamic Programming
-
-    Backtracking, Branch & Bound, NP-completeness
-
-Ideal for revision, interview prep, or foundational DSA understanding.
+Check the full [syllabus here](./syllabus.md).
