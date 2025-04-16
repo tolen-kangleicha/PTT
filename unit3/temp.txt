@@ -1,0 +1,14 @@
+total 28216
+-rw-rw-r-- 1 tolen tolen   436895 Sep 27 20:37 AWK_revised_partA.pdf
+-rw-rw-r-- 1 tolen tolen   324793 Sep 27 20:37 AWK_revised_partB.pdf
+-rw-rw-r-- 1 tolen tolen   284551 Sep 27 20:37 AWK_revised_partC.pdf
+-rw-rw-r-- 1 tolen tolen   107318 Sep 27 20:37 AwkExercises_partA.pdf
+-rw-rw-r-- 1 tolen tolen   362232 Sep 27 20:37 awk_exercises.pdf
+-rw-rw-r-- 1 tolen tolen 27178855 Sep 17 21:18 grep ,shell scripting,linux.pdf
+-rw-rw-r-- 1 tolen tolen   101517 Sep 25 13:22 grep_awk_sed.pdf
+drwxrwxr-x 2 tolen tolen     4096 Sep 27 23:17 haha
+-rwxrwxr-x 1 tolen tolen        0 Sep 27 23:08 haha.sh
+-rw-rw-r-- 1 tolen tolen      135 Sep 27 21:33 marks.txt
+-rw-rw-r-- 1 tolen tolen    68890 Sep 27 20:37 sed.pdf
+-rw-rw-r-- 1 tolen tolen        0 Sep 27 23:19 temp.txt
+-rw-rw-r-- 1 tolen tolen      196 Sep 27 21:18 test.txt

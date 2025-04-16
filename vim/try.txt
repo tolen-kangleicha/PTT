@@ -1,0 +1,4 @@
+This is an article covering search & replace with Vim, article.
+Vim is a powerful text editor.
+We'll go through different scenarios of search & replace in this article.
+Show the output sample file for each command.

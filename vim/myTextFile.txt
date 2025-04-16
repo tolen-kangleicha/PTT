@@ -1,0 +1,3 @@
+Hello!! This is Tolen Sorokhaibam.
+And I am a student at NERIST.
+Learning vim is completely awesome!!
